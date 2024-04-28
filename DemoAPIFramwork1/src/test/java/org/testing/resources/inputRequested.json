@@ -1,0 +1,17 @@
+{
+	"firstName":"Kavya",
+	"lastName":"Menon",
+	"employeeCode":"Bc222828",
+	"role":"Manager",
+	"organization":"Infosys",
+	"address":[
+	{
+	"Street":"Gonee",
+	"PinCode":"8754585",
+	"addressType":"primary"},
+	{
+	"Street":"NewVihar",
+	"Pincode":"122025",
+	"addressType":"Secondary"}],
+	"id":"{{id}}"
+}
